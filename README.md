@@ -1,2 +1,3 @@
 # hello-world
-First repository in Github
+First repository in
+Changed as a sample
